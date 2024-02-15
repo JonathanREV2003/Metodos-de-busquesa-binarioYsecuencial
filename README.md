@@ -1,6 +1,6 @@
 METODO DE BUSQUESA BINARIO Y SECUENCIAL:   
 
-LINK DEL VIDEO >>
+LINK DEL VIDEO >>  https://drive.google.com/file/d/14aQbfELUhszM4jV0Nco_InMmJG_trtHz/view?usp=sharing 
 
 
 ---CAPTURAS DEL CODIGO EN EJECUCION---
