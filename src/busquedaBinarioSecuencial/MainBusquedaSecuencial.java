@@ -1,3 +1,5 @@
+package busquedaBinarioSecuencial;
+
 import javax.swing.*;
 
 public class MainBusquedaSecuencial {

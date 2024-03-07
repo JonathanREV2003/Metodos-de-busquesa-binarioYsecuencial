@@ -1,3 +1,5 @@
+package busquedaBinarioSecuencial;
+
 import java.util.Scanner;
 
 public class Main {
